@@ -1,8 +1,10 @@
 {
-	"fname":"",
+	"fullname":"",
 	"salesforce id":"",
-	"celphone num":"",
-	"alternate num":"",
+	"celular":"",
+	"celular2":"",
 	"email":"",
-	"specialty":""	
+	"specialty":[
+	  "pa","emt","np"
+	]	
 }
