@@ -4,13 +4,7 @@
 	"celular":"",
 	"celular2":"",
 	"email":"",
-	"specialty":[
-	  "pa","emt","np","cna","cma"
-	  ],
-	"bilingual": [
-		  "no", "yes"
-		],
-	"shift": [
-		  "full-time", "part-time"
-		]
+	"specialty":["PA","NP","EMT","CNA","CMA"],
+	"bilingual": ["No", "Yes"],
+	"shift": ["Full-time", "Part-time"]
 }
