@@ -6,5 +6,11 @@
 	"email":"",
 	"specialty":[
 	  "pa","emt","np"
-	]	
+	  ],
+	"bilingual": [
+		  "no", "yes"
+		],
+	"shift": [
+		  "full-time", "part-time"
+		]
 }
