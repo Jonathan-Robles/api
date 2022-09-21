@@ -1,10 +1,10 @@
 {
-	"fullname":"",
-	"salesforce id":"",
-	"celular":"",
-	"celular2":"",
-	"email":"",
-	"specialty":["PA","NP","EMT","CNA","CMA"],
-	"bilingual": ["No", "Yes"],
-	"shift": ["Full-time", "Part-time"]
+	"Fullname":"",
+	"Salesforce id":"",
+	"Celular":"",
+	"Celular2":"",
+	"Email":"",
+	"Specialty":["PA","NP","EMT","CNA","CMA"],
+	"Bilingual": ["No", "Yes"],
+	"Shift": ["Full-time", "Part-time"]
 }
