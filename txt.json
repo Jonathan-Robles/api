@@ -1,12 +1,34 @@
 {
-	"Fullname":"",
-	"Salesforce id":"",
-	"Celular":"",
-	"Celular2":"",
-	"Email":"",
-	"Specialty":["PA","NP","EMT","CNA","CMA"],
-	"Certifications":["BLS","CPR","NRP","PALS","ACLS"],
-	"Association":["AHA","ARC","ADHI"],
-	"Bilingual": ["No", "Yes"],
-	"Shift": ["Full-time", "Part-time"]
+    "Fullname": "",
+    "Salesforce id": "",
+    "Celular": "",
+    "Celular2": "",
+    "Email": "",
+    "Specialty": [
+        "PA",
+        "NP",
+        "EMT",
+        "CNA",
+        "CMA"
+    ],
+    "Certifications": [
+        "BLS",
+        "CPR",
+        "NRP",
+        "PALS",
+        "ACLS"
+    ],
+    "Association": [
+        "AHA",
+        "ARC",
+        "ADHI"
+    ],
+    "Bilingual": [
+        "No",
+        "Yes"
+    ],
+    "Shift": [
+        "Full-time",
+        "Part-time"
+    ]
 }
