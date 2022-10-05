@@ -4,6 +4,7 @@
     "Celular": "",
     "Celular2": "",
     "Email": "",
+    "Contact best time": "",
     "Specialty": [
         "PA",
         "NP",
@@ -27,8 +28,9 @@
     "Experience": [
         "Urgent Care",
         "Family Practice",
-        "Peds",
-        "Gers"
+        "Peds 0",
+        "Gers 99",
+        "ER"
     ],
     "Bilingual": [
         "No",
