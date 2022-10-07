@@ -8,9 +8,7 @@
     "Specialty": [
         "PA",
         "NP",
-        "EMT",
-        "CNA",
-        "CMA"
+        "EMT"
     ],
     "Certifications": [
         "BLS",
@@ -26,11 +24,11 @@
         "ASHI"
     ],
     "Experience": [
-        "Urgent Care",
-        "Family Practice",
+        "UC",
+        "F.Practice",
         "Peds 0",
         "Gers 99",
-        "ER"
+        "EM"
     ],
     "Bilingual": [
         "No",
